@@ -61,9 +61,7 @@ Make sure you have:
 4. **Run the dev server**
   ```bash
   npm run dev
-5. **Open in the browser**
-  ```bash
-  http://localhost:5173/
+ 
 
 📡 API Configuration
 
@@ -76,7 +74,6 @@ This app requires a weather API key to fetch real-time weather data.
     -WeatherAPI (weatherapi.com)
 
 2. Create a .env file in the root of the project and add your API key:
-  ```bash
   VITE_WEATHER_API_KEY=your_api_key_here
 
 
