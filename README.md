@@ -59,8 +59,11 @@ Make sure you have:
    ```bash
    npm install
 4. **Run the dev server**
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
+6. **Open in the browser**
+   ```bash
+   http://localhost:5173/
  
 
 # React + Vite
