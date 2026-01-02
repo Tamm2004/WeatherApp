@@ -58,7 +58,13 @@ Make sure you have:
 3. **Install dependencies**
    ```bash
    npm install
-   
+4. **Run the dev server**
+  ```bash
+  npm run dev
+5. **Open in the browser**
+  ```bash
+  http://localhost:5173/
+
 📡 API Configuration
 
 This app requires a weather API key to fetch real-time weather data.
@@ -73,12 +79,6 @@ This app requires a weather API key to fetch real-time weather data.
   ```bash
   VITE_WEATHER_API_KEY=your_api_key_here
 
-4. **Run the dev server**
-  ```bash
-  npm run dev
-5. **Open in the browser**
-  ```bash
-  http://localhost:5173/
 
 # React + Vite
 
